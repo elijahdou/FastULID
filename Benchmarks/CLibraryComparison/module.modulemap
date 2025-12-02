@@ -1,0 +1,6 @@
+module CULIDWrapper {
+    header "ulid_wrapper.h"
+    link "CULIDWrapper"
+    export *
+}
+
